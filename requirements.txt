@@ -1,0 +1,7 @@
+voyageai
+python-dotenv
+numpy
+rank-bm25
+hnswlib
+networkx
+pillow

@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.index
+*.faiss
+**/data/cache/
+**/data/index_state.json
+**/data/drift_log.jsonl
